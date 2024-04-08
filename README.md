@@ -1,2 +1,2 @@
-# MSc_Hilary_thesis_code1
+# MSc_Hilary_thesis_code
 Code for proteomics analysis of MS vs control astrocyte data
